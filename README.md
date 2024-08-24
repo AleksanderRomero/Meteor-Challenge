@@ -2,17 +2,17 @@
 
 ### Tarefas:
 
-1. **Contar o número de Estrelas**
-2. **Contar o número de Meteoros**
-3. **Se os Meteoros estão caindo perpendicularmente ao solo (nível da água), contar quantos cairão na água**
-4. **(opcional) Encontrar a frase escondida nos pontos no céu**
+1. **Contar o número de Estrelas.**
+2. **Contar o número de Meteoros.**
+3. **Se os Meteoros estão caindo perpendicularmente ao solo (nível da água), contar quantos cairão na água.**
+4. **(Opcional) Encontrar a frase escondida nos pontos no céu.**
 
 ### Respostas:
 
 - **Número de Estrelas:** 315
 - **Número de Meteoros:** 328
 - **Meteoros caindo na Água:** 105
-- **(opcional) Frase Escondida:** *Não encontrada*
+- **(Opcional) Frase Escondida:** *Não encontrada*
 
 ---
 
