@@ -1,0 +1,15 @@
+{
+  "name": "tarken",
+  "version": "1.0.0",
+  "main": "tarken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jimp": "^0.22.12"
+  }
+}
